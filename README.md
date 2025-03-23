@@ -93,7 +93,7 @@ Blockchain-Based-Bug-Bounty/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## contract address
+## Contract address
 0x55b397C976F7f4eB883Ee23669856A75E8E12e6f
 ## License
 
