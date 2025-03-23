@@ -79,6 +79,8 @@ Blockchain-Based-Bug-Bounty/
 ├── test/              # Smart contract tests
 └── hardhat.config.js  # Hardhat configuration
 ```
+![Alt text](images/Screenshot 2025-03-23 at 08.57.21.png)
+
 
 ## Contributing
 
